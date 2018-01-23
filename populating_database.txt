@@ -1,0 +1,491 @@
+STUDENT TABLE:
+1-15 B1
+16-30 B2
+31-60 B3
+60+ B4
+instructions:
+sem 1: 1RV17
+sem 2: 1RV12
+sem 3: 1RV13
+sem 4: 1RV14
+sem 5: 1RV15
+sem 6: 1RV16
+sem 7: 1RV11
+sem 8: 1RV10
+
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Akshatha A N', '1RV11IS007', '7', 'B1', 'akshatha.arodi@gmail.com', 'Nagaraja', 'arodi.nagaraj4@gmail.com', '9480386345', '9449027800', 'Shimoga');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Arshi', '1RV11IS014', '7', 'B1', 'arshi.aftab@gmail.com', 'Aftab Khan', 'khan.aftab@gmail.com', '9987458740', '8475123690', 'Chattisgarh');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Chandana G Upadhyaya', '1RV11IS016', '7', 'B2', 'chandana.upadhyaya@gmail.com', 'G Upadhyaya', 'upadhyaya.g@gmail.com', '9482821666', '9102301452', 'Manipal');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Sneha Shanbhag', '1RV11IS050', '7', 'B3', 'sneha.shnbhg@gmail.com', 'N Shanbhag', 'shanbhag.nagaraj@gmail.com', '9987541347', '9748512020', 'Sirsi');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Diraj', '1RV11IS020', '7', 'B2', 'diraj.hs@gmail.com', 'Hemalatha', 'hema.hs@gmail.com', '9748512032', '9789654745', 'Bangalore');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Rashmi G S', '1RV11IS043', '7', 'B3', 'rashmi.gs@gmail.com', 'Gururaj G S', 'gururaj.koppa@gmail.com', '7845123620', '8745896584', 'Koppa');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Vishnu V Narayan', '1RV11IS063', '7', 'B4', 'vvneagleone@gmail.com', 'M V Narayan', 'narayan.mv@gmail.com', '9980781875', '9174852301', 'Bangalore');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Vijayaraghavan B', '1RV11IS061', '7', 'B4', 'vinayronbar@gmail.com', 'Aditya Raghavan', 'vijayaragh@gmail.com', '8756948510', '7845120214', 'Chennai');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Anusha', '1RV15IS007', '5', 'B1', 'anusha@gmail.com', 'Basava', 'basava.anu@gmail.com', '9874587458', '7878784510', 'Hyderabad');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Akash', '1RV115S014', '5', 'B1', 'akash123@gmail.com', 'Suresh', 'suresh@gmail.com', '9878987450', '9474857135', 'Bangalore');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Anmol', '1RV115S016', '5', 'B2', 'anmol@gmail.com', 'Beherani', 'behrani.anmol@gmail.com', '8874512032', '9784596520', 'Bhopal');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Shashank Gupta', '1RV15IS020', '5', 'B2', 'shashank@gmail.com', 'Siddhanth Gupta', 'gupta.siddhanth@gmail.com', '9987878563', '9878987854', 'Bangalore');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Vinay Hari', '1RV115S053', '5', 'B3', 'vinay.hari@gmail.com', 'Venkatesh Hari', 'hari.venki@gmail.com', '9480386345', '9449027800', 'Shimoga');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Keerthan Upadhyaya', '1RV15IS050', '5', 'B3', 'keerthan.u@gmail.com', 'Jagannath Upadhyaya', 'j.upadhyaya@gmail.com', '9447859610', '9478451236', 'Udupi');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Sushma Karanth', '1RV15IS060', '5', 'B4', 'sushma.karanth@gmail.com', 'Ganesh Karanth', 'g.karanth@gmail.com', '9784596351', '8794567126', 'Sringeri');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Vinuta Shastri', '1RV15IS063', '5', 'B4', 'shastri.vinuta@gmail.com', 'Vighneshwara Shastri', 'shas3.vighnesh@gmail.com', '8875412578', '1457859650', 'Sirsi');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Balpreeth Sehmi', '1RV13IS007', '3', 'B1', 'sehmi.balpreeth@gmail.com', 'Harbajan Sehmi', 'sehmi.har@gmail.com', '9987854120', '8789685471', 'Gurgaon');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Jayesh Arodi', '1RV13IS016', '3', 'B2', 'jayesh.arodi@gmail.com', 'Kamalakar', 'arodi.kamal@gmail.com', '9987458210', '9469584712', 'Shimoga');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Arundhati Nadig', '1RV13IS050', '3', 'B3', 'arundhati.nadig@gmail.com', 'Mahendra Nadig', 'mahendrakumar@gmail.com', '8987878520', '7845784582', 'Shimoga');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Abhijith Mulimani', '1RV13IS063', '3', 'B4', 'abhi123@gmail.com', 'Satyajith M', 'mulimani.s@gmail.com', '8978745120', '9878547852', 'Bhadravathi');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Aditya Muttur', '1RV17IS007', '1', 'B1', 'amuttur123@gmail.com', 'Vijay Muttur', 'vijay.muttur@gmail.com', '9878547850', '7896585621', 'Shimoga');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Aishwarya M J', '1RV17IS016', '1', 'B2', 'mj.aishwarya@gmail.com', 'Deve Gowda', 'devegowda234@gmail.com', '9895693620', '7898987450', 'Bangalore');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Pawan Kumar', '1RV17IS050', '1', 'B3', 'pawan.kumar@gmail.com', 'Sriram Kumar', 'kumar.sri@gmail.com', '9878451200', '7878784512', 'Bangalore');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Mehmood Saudagar', '1RV17IS063', '1', 'B4', 'mehmood@gmail.com', 'Kareem Saudagar', 'kareem.s@gmail.com', '9878451263', '9898989898', 'Bangalore');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Archana R', '1RV12IS007', '2', 'B1', 'archana.r@gmail.com', 'Ashoka R', 'radhakrishna.ashoka@gmail.com', '9987584123', '5858587451', 'Manipal');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Akul S', '1RV12IS016', '2', 'B2', 'akuls@gmail.com', 'Siddha Swamy', 'siddha.swamy@gmail.com', '8978547130', '9878787410', 'Shimoga');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Srihari V', '1RV12IS050', '2', 'B3', 'hari93@gmail.com', 'Srinivas V', 'srinivas.v@gmail.com', '7789895620', '9999878740', 'Udupi');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Jagriti Kothari', '1RV12IS063', '2', 'B4', 'jaggu.kothari@gmail.com', 'Hithen Kothari', 'kothari.hithen@gmail.com', '9547852360', '9878888840', 'Bangalore');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Nikhit Kumar', '1RV14IS007', '4', 'B1', 'nikhit.kumar@gmail.com', 'Niranjan Kumar', 'kumar@gmail.com', '9987878787', '9866666640', 'Tumkur');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Maitreya H', '1RV14IS016', '4', 'B2', 'maitreya.shimoga@gmail.com', 'Sadashiva H', 'sada@gmail.com', '7778787841', '9828282841', 'Tumkur');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Dhruva Gowda', '1RV14IS050', '4', 'B3', 'dhruvatth@gmail.com', 'Mahaltesh Gowda', 'mgowda@gmail.com', '7898989740', '8978978987', 'Shimoga');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Prerana Niluvase', '1RV14IS063', '4', 'B4', 'prerana92@gmail.com', 'Sadashiv Niluvase', 'sadashiv.n89@gmail.com', '9888585458', '8787875550', 'Bangalore');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Sushmitha Shivram', '1RV16IS007', '6', 'B1', 'sush.shiv@gmail.com', 'Shivaram Karanth', 'sskaranth78@gmail.com', '9404512563', '7777858587', 'Bangalore');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Vineeth Ashtekar', '1RV16IS016', '6', 'B2', 'vineethashte@gmail.com', 'Nirupama Ashtekar', 'nirupamaashte@gmail.com', '8785965841', '9898989890', 'Bangalore');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Manu A C', '1RV16IS050', '6', 'B3', 'manu0893@gmail.com', 'Manasi R', 'manasimanu@gmail.com', '9878745201', '7787878500', 'Bangalore');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Monisha J', '1RV16IS063', '6', 'B4', 'moni789moni@gmail.com', 'Jayasheelan J', 'jayasheelanjm@gmail.com', '9989898652', '8787845256', 'Bangalore');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Nayonitha Achar', '1RV10IS007', '8', 'B1', 'missindianayo@gmail.com', 'Shrishti Achar', 'snachar@gmail.com', '9578585820', '8787841025', 'Shimoga');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Ajay R', '1RV10IS016', '8', 'B2', 'ajaykumar@gmail.com', 'Mrutyunjay R', 'raghavendram@gmail.com', '8898989852', '9878562360', 'Shimoga');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Abhijitha N G', '1RV10IS050', '8', 'B3', 'abhinadagowda@gmail.com', 'Nadagowda Shreesh', 'nadashree@gmail.com', '9985874520', '9858525230', 'Bangalore');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Vasuprada V', '1RV10IS063', '8', 'B4', 'vasu96@gmail.com', 'Vijayakumar V', 'vijayakumarv@gmail.com', '9985698962', '9787585410', 'Shimoga');
+INSERT INTO `elogbook`.`student` (`name`, `USN`, `sem`, `batch`, `mail_id`, `patent`, `parent_mail_id`, `phone`, `parent_no`, `Address`) VALUES ('Suprabha S', '1RV11IS053', '7', 'B3', 'suprabha.s@gmail.com', 'Somashekhar', 'somashekhar@gmail.com', '9879658547', '9878987410', 'Bangalore');
+
+
+
+
+
+
+subject :
+
+
+
+
+INSERT INTO `elogbook`.`subject` (`sub_code`, `sub_name`, `sem`, `no_of_classes`) VALUES ('10IS11', 'C programming', '1', '0');
+INSERT INTO `elogbook`.`subject` (`sub_code`, `sub_name`, `sem`, `no_of_classes`) VALUES ('10IS12', 'Chemistry', '1', '0');
+INSERT INTO `elogbook`.`subject` (`sub_code`, `sub_name`, `sem`, `no_of_classes`) VALUES ('10IS21', 'Mechanical', '2', '0');
+INSERT INTO `elogbook`.`subject` (`sub_code`, `sub_name`, `sem`, `no_of_classes`) VALUES ('10IS22', 'Physics', '2', '0');
+INSERT INTO `elogbook`.`subject` (`sub_code`, `sub_name`, `sem`, `no_of_classes`) VALUES ('10IS31', 'Data Structures', '3', '0');
+INSERT INTO `elogbook`.`subject` (`sub_code`, `sub_name`, `sem`, `no_of_classes`) VALUES ('10IS32', 'Logic Design', '3', '0');
+INSERT INTO `elogbook`.`subject` (`sub_code`, `sub_name`, `sem`, `no_of_classes`) VALUES ('10IS41', 'Advanced Algorithms', '4', '0');
+INSERT INTO `elogbook`.`subject` (`sub_code`, `sub_name`, `sem`, `no_of_classes`) VALUES ('10IS42', 'UNIX', '4', '0');
+INSERT INTO `elogbook`.`subject` (`sub_code`, `sub_name`, `sem`, `no_of_classes`) VALUES ('10IS51', 'DBMS', '5', '0');
+INSERT INTO `elogbook`.`subject` (`sub_code`, `sub_name`, `sem`, `no_of_classes`) VALUES ('10IS52', 'MP', '5', '0');
+INSERT INTO `elogbook`.`subject` (`sub_code`, `sub_name`, `sem`, `no_of_classes`) VALUES ('10IS61', 'Computer Networking', '6', '0');
+INSERT INTO `elogbook`.`subject` (`sub_code`, `sub_name`, `sem`, `no_of_classes`) VALUES ('10IS62', 'File Structures', '6', '0');
+INSERT INTO `elogbook`.`subject` (`sub_code`, `sub_name`, `sem`, `no_of_classes`) VALUES ('10IS71', 'Web Programming', '7', '0');
+INSERT INTO `elogbook`.`subject` (`sub_code`, `sub_name`, `sem`, `no_of_classes`) VALUES ('10IS72', 'Software Testing', '7', '0');
+INSERT INTO `elogbook`.`subject` (`sub_code`, `sub_name`, `sem`, `no_of_classes`) VALUES ('10IS81', 'Major Project 1', '8', '0');
+INSERT INTO `elogbook`.`subject` (`sub_code`, `sub_name`, `sem`, `no_of_classes`) VALUES ('10IS82', 'Major Project 2', '8', '0');
+
+
+
+
+generate student hash :
+with username and pass as USN:
+
+
+
+
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV10IS007','$2y$10$bis6LiiAA8ajeZ.Ki76zy.0JDrdlgi6c7SbT1Bum38OXaV0ROC.zK');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV10IS016','$2y$10$/MqRKV1oPKKQOAn9vxf2ZO01inrUdJJS3GwpLld7y/0QRWs1nsJ3m');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV10IS050','$2y$10$aP5pIwmP/YDQ0QWLiFP7SucsKnP..sV24Q9SJ6wHIk9Sh0W0gC9nS');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV10IS063','$2y$10$LY3GVKRRy3Oo.90vFjbPyeehifyuO/qCJKtL22sGIbQXBHMHzJgsC');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV115S014','$2y$10$HeXDQ43kpmwua579r7gnbOsxUV/eRuFu9g9bw6H3pcBqURbNeTyiC');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV115S016','$2y$10$4cH1VPIzKsjSPxT.vyfKyeTwR6ELmxZobWYii4WzJDtTxh2AfckmG');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV115S053','$2y$10$65Frx78py9KRpY0i7RkoE.1kqCwsHjb.PkiYpBE3p9EKvRBFN/osG');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV11IS007','$2y$10$zPA7qAKDJNdKhGqWMDupaOC27nMe7qjWttbFvrJ55sgkIPqT6GQQm');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV11IS014','$2y$10$W48arptuBC5IIYADYKGJAeTXNFNZ4pSfx83upI.Jo4R0cq6AfEtnu');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV11IS016','$2y$10$jRcyKALxCm9UtXN.ihRHnuruhlRaPSZGDNkhjUEU73NtTPxenNt..');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV11IS020','$2y$10$07ePzvbH2ks82nV7DCZ6G.a9KLhrJZdc.U6CTS9QKfRmu3C1TltTa');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV11IS043','$2y$10$OwhmnFxUSHviXemjB1f26O6kgao9nFYDqz91hj7XSAd14znBc50nS');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV11IS050','$2y$10$lmn2/AJstp5S.fmP2Z97d.gV67DqV3uNWuUKoKnYU1Mh/0wL3wWa.');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV11IS053','$2y$10$1it2aP3Klj/cmJQWviVnGOrGRkp0If9oPg17r2qZ/SkuravpHhVmq');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV11IS061','$2y$10$5hwWxRr5105c8.dvBYBz6uTKCqnFb9na/im8BWP9RH7QWZ24vwxJ2');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV11IS063','$2y$10$eudpdtGxYG7QCWkrsqpdeOBwHG1RUksd.tylT4bbj8H5whQeXe3Bi');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV12IS007','$2y$10$1T4b9UkdGW57fdokDPtUh.I/IHYrQqBV9P3PIUZZlLTDYqaY3aDTS');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV12IS016','$2y$10$bIcD0GRCXV0tq0po8/YvHOfnZ77zNXPtwHOLM3iAQT9P2w0JyUicu');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV12IS050','$2y$10$dXrG5xbAjmnvkf1L9io30.xqo/uvjn0MDAtrFQciLZSaZ5gPj9Q/.');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV12IS063','$2y$10$NwyEh13N1h2mtPKMIvtmHO9DsEV0zNnQQe2FvU7L7QehVs0L2NjCC');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV13IS007','$2y$10$bHmZkSbW9Dtcd9zqdnd3HOMeaJqGDw.MmpulGbZNKpWZRrY2gbNbS');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV13IS016','$2y$10$yE0YlfIha9MQneiLHXtOxOCC9rDyoACijrNPJVTN6e4fPgEVfXv32');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV13IS050','$2y$10$74kY8QPepTteLbgDcnY9beysBcpCy7VAzEX16j3NjT10rXLOM4tiu');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV13IS063','$2y$10$baqb5sH61Np4w5AN3KCopOz8czCkOTa6kMF5G1Of456NGJoBLcWbG');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV14IS007','$2y$10$14VZUa3U9XluMQDRjo9Jj.lw.77/G8rvTbZIJDo01VNUefp/BSqDW');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV14IS016','$2y$10$cFoZLQ53/91FL789DitFD./BSUpfhTNgxvAdu5T4EoEJJ.gSCP9l.');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV14IS050','$2y$10$fC46aKf8FQvqp/X7Z2.fk.f8dWHHjZEQOguPtGlRmNgP.i5IuswDq');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV14IS063','$2y$10$PoPUc8gPea7.21iWxRVp6.VJklHLmA1XnXmuVKAn3jgj3GP.wWhK.');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV15IS007','$2y$10$5kHpdvMTNcEsrW2uUVbe0OVaOSLIsN3CJLILk9IdGYu7UNZM/GGpu');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV15IS020','$2y$10$HLjDqTpfUTjdyfkSCiZTzureadh1gwsY2LU5DmxTABY5pcHT4MEk2');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV15IS050','$2y$10$HuJlq/8vVvtoKB.RKOp/gOXLa50yNTH/f3akHSK7X6x9/eJhldNVm');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV15IS060','$2y$10$zInFq6pAIQaYEBxNMxMIi.d1MoEyJtTA5Xx..pWQkPvCZNgo74zZW');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV15IS063','$2y$10$nOQCAjopbTDsmxskr5Mz6uPN9/AiPUMhv600UBvvZeunMMoXELSzu');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV16IS007','$2y$10$J3whdEAIc52y665R2NfIeu6sicmdpEudPKZcM215dYDNj3RB/Is22');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV16IS016','$2y$10$7qg9J.ArFqrMa2MGqUf0Tu5Nlj/XZX3QzRrIJh4PWgO/eoVEHUciG');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV16IS050','$2y$10$Flttk4/92AZh9saP5AKyZ.zbZQjd3g/7MpcqHUAyOrWgHAPzf3lge');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV16IS063','$2y$10$yfzQYcwSJ1V1MS04fKpwEeXGbAtVKSNAEFlMjp7Hyp59L.K4PKa8O');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV17IS007','$2y$10$.OyLddNRn3T7nmA6/9XzEOgqm57QZGL9TsZz7Nt3Jy.bOooMD0iom');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV17IS016','$2y$10$1T/ORSpqu5HXH0k4FkzC8eKbP1wb3ggv.k6egMvjUqaYQ/1.EtDD6');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV17IS050','$2y$10$Lf.p7GvShLMWbd8QFASH6uOEz9tyhlz3/QGIePfsWTX7nFdS2mMt6');
+INSERT INTO `student_log`(`usn`, `password`) VALUES ('1RV17IS063','$2y$10$gPcTx1rMXZkvHkHfTjNiGOAarHOl17INtXanyBLnDbW5uwZmJoP3W');
+
+
+
+
+admin hash values:
+
+INSERT INTO `admin` VALUES ('admin','$2y$10$m7SW0JIpho2jEQ/dmy9oAe84CgP/2GvBSgIx1Ai.PhUEbtzEEgNIW')
+
+
+faculty hash values:
+
+
+INSERT INTO `faculty` VALUES ('hod','$2y$10$dDsY87wJvvtYBF7ikh8olu75vu4XSAVo4yHgPBfaRQqURZkhKwT6e');
+INSERT INTO `faculty` VALUES ('vp','$2y$10$Y2xgyILpbpskD1OTqjYMn.PBzXHa/.YSeYPO46P5iv9XxZgtB7dfe');
+INSERT INTO `faculty` VALUES ('principal','$2y$10$gj.SB01U5EqARAx.CYMMkuP.328tyWhDBnbtu5Z4vf8u3NAWrRjjO');
+INSERT INTO `faculty` VALUES ('counsellor1','$2y$10$ZC4QZtKYAXcuQ1PGWOrmge6sgde7.U3pLYBL/SL9j8QRUmL6ZxZe.');
+INSERT INTO `faculty` VALUES ('counsellor2','$2y$10$Y7D0W4GkSMezx.s2GfqsN.O8Mfhif36qu05v9NYAI5tBP8TD.Kv0K');
+INSERT INTO `faculty` VALUES ('counsellor3','$2y$10$7mKLj343biF.WZifNxAc6.1i87GzSVGgWVwpNVFloBlkmSv9Nntki');
+INSERT INTO `faculty` VALUES ('counsellor4','$2y$10$Oneqr1pYl8Zm9CaAYVtjA.g44NLgL1BVSwd3y3ztn9WEM3inn.r1S');
+INSERT INTO `faculty` VALUES ('faculty','$2y$10$Xx8TWc8vYmLHk5MX4Jj.oOfKD.vjUKtaMOx5XSWK/SIkZ7GRP.pe.');
+
+
+
+session populate:
+
+
+
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('1','1','C programming',now(),'faculty','B1','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('2','1','C programming',now(),'faculty','B2','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('3','1','C programming',now(),'faculty','B3','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('4','1','C programming',now(),'faculty','B4','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('5','1','Chemistry',now(),'faculty','B1','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('6','1','Chemistry',now(),'faculty','B2','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('7','1','Chemistry',now(),'faculty','B3','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('8','1','Chemistry',now(),'faculty','B4','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('9','2','Mechanical',now(),'faculty','B1','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('10','2','Mechanical',now(),'faculty','B2','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('11','2','Mechanical',now(),'faculty','B3','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('12','2','Mechanical',now(),'faculty','B4','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('13','2','Physics',now(),'faculty','B1','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('14','2','Physics',now(),'faculty','B2','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('15','2','Physics',now(),'faculty','B3','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('16','2','Physics',now(),'faculty','B4','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('17','3','Data Structures',now(),'faculty','B1','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('18','3','Data Structures',now(),'faculty','B2','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('19','3','Data Structures',now(),'faculty','B3','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('20','3','Data Structures',now(),'faculty','B4','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('21','3','Logic Design',now(),'faculty','B1','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('22','3','Logic Design',now(),'faculty','B2','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('23','3','Logic Design',now(),'faculty','B3','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('24','3','Logic Design',now(),'faculty','B4','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('25','4','Advanced Algorithms',now(),'faculty','B1','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('26','4','Advanced Algorithms',now(),'faculty','B2','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('27','4','Advanced Algorithms',now(),'faculty','B3','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('28','4','Advanced Algorithms',now(),'faculty','B4','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('29','4','UNIX',now(),'faculty','B1','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('30','4','UNIX',now(),'faculty','B2','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('31','4','UNIX',now(),'faculty','B3','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('32','4','UNIX',now(),'faculty','B4','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('33','5','DBMS',now(),'faculty','B1','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('34','5','DBMS',now(),'faculty','B2','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('35','5','DBMS',now(),'faculty','B3','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('36','5','DBMS',now(),'faculty','B4','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('37','5','MP',now(),'faculty','B1','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('38','5','MP',now(),'faculty','B2','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('39','5','MP',now(),'faculty','B3','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('40','5','MP',now(),'faculty','B4','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('41','6','Computer Networking',now(),'faculty','B1','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('42','6','Computer Networking',now(),'faculty','B2','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('43','6','Computer Networking',now(),'faculty','B3','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('44','6','Computer Networking',now(),'faculty','B4','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('45','6','File Structures',now(),'faculty','B1','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('46','6','File Structures',now(),'faculty','B2','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('47','6','File Structures',now(),'faculty','B3','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('48','6','File Structures',now(),'faculty','B4','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('49','7','Web Programming',now(),'faculty','B1','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('50','7','Web Programming',now(),'faculty','B2','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('51','7','Web Programming',now(),'faculty','B3','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('52','7','Web Programming',now(),'faculty','B4','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('53','7','Software Testing',now(),'faculty','B1','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('54','7','Software Testing',now(),'faculty','B2','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('55','7','Software Testing',now(),'faculty','B3','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('56','7','Software Testing',now(),'faculty','B4','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('57','8','Major Project 1',now(),'faculty','B1','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('58','8','Major Project 1',now(),'faculty','B2','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('59','8','Major Project 1',now(),'faculty','B3','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('60','8','Major Project 1',now(),'faculty','B4','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('61','8','Major Project 2',now(),'faculty','B1','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('62','8','Major Project 2',now(),'faculty','B2','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('63','8','Major Project 2',now(),'faculty','B3','Lab1','1');
+INSERT INTO `session`(`sid`, `sem`, `sub`, `log_in`, `faculty`, `batch`, `lab_no`, `activity`) VALUES ('64','8','Major Project 2',now(),'faculty','B4','Lab1','1');
+
+
+
+populate temporary logbook:
+
+
+
+
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('1', 'C programming', '1RV17IS007', CURRENT_TIMESTAMP, '1', '0', 'B1');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('10', 'Mechanical', '1RV12IS016', CURRENT_TIMESTAMP, '2', '0', 'B2');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('11', 'Mechanical', '1RV12IS050', CURRENT_TIMESTAMP, '3', '0', 'B3');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('12', 'Mechanical', '1RV12IS063', CURRENT_TIMESTAMP, '4', '0', 'B4');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('13', 'Physics', '1RV12IS007', CURRENT_TIMESTAMP, '5', '0', 'B1');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('14', 'Physics', '1RV12IS016', CURRENT_TIMESTAMP, '6', '0', 'B2');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('15', 'Physics', '1RV12IS050', CURRENT_TIMESTAMP, '7', '0', 'B3');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('16', 'Physics', '1RV12IS063', CURRENT_TIMESTAMP, '8', '0', 'B4');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('17', 'Data Structures', '1RV13IS007', CURRENT_TIMESTAMP, '9', '0', 'B1');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('18', 'Data Structures', '1RV13IS016', CURRENT_TIMESTAMP, '10', '0', 'B2');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('19', 'Data Structures', '1RV13IS050', CURRENT_TIMESTAMP, '11', '0', 'B3');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('2', 'C programming', '1RV17IS016', CURRENT_TIMESTAMP, '12', '0', 'B2');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('20', 'Data Structures', '1RV13IS063', CURRENT_TIMESTAMP, '13', '0', 'B4');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('21', 'Logic Design', '1RV13IS007', CURRENT_TIMESTAMP, '14', '0', 'B1');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('22', 'Logic Design', '1RV13IS016', CURRENT_TIMESTAMP, '15', '0', 'B2');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('23', 'Logic Design', '1RV13IS050', CURRENT_TIMESTAMP, '16', '0', 'B3');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('24', 'Logic Design', '1RV13IS063', CURRENT_TIMESTAMP, '17', '0', 'B4');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('25', 'Advanced Algorithms', '1RV14IS007', CURRENT_TIMESTAMP, '18', '0', 'B1');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('26', 'Advanced Algorithms', '1RV14IS016', CURRENT_TIMESTAMP, '19', '0', 'B2');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('27', 'Advanced Algorithms', '1RV14IS050', CURRENT_TIMESTAMP, '20', '0', 'B3');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('28', 'Advanced Algorithms', '1RV14IS063', CURRENT_TIMESTAMP, '21', '0', 'B4');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('29', 'UNIX', '1RV14IS007', CURRENT_TIMESTAMP, '22', '0', 'B1');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('3', 'C programming', '1RV17IS050', CURRENT_TIMESTAMP, '23', '0', 'B3');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('30', 'UNIX', '1RV14IS016', CURRENT_TIMESTAMP, '24', '0', 'B2');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('31', 'UNIX', '1RV14IS050', CURRENT_TIMESTAMP, '25', '0', 'B3');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('32', 'UNIX', '1RV14IS063', CURRENT_TIMESTAMP, '26', '0', 'B4');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('33', 'DBMS', '1RV115S014', CURRENT_TIMESTAMP, '27', '0', 'B1');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('33', 'DBMS', '1RV15IS007', CURRENT_TIMESTAMP, '28', '0', 'B1');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('34', 'DBMS', '1RV115S016', CURRENT_TIMESTAMP, '29', '0', 'B2');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('34', 'DBMS', '1RV15IS020', CURRENT_TIMESTAMP, '30', '0', 'B2');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('35', 'DBMS', '1RV115S053', CURRENT_TIMESTAMP, '31', '0', 'B3');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('35', 'DBMS', '1RV15IS050', CURRENT_TIMESTAMP, '32', '0', 'B3');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('36', 'DBMS', '1RV15IS060', CURRENT_TIMESTAMP, '33', '0', 'B4');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('36', 'DBMS', '1RV15IS063', CURRENT_TIMESTAMP, '34', '0', 'B4');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('37', 'MP', '1RV115S014', CURRENT_TIMESTAMP, '35', '0', 'B1');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('37', 'MP', '1RV15IS007', CURRENT_TIMESTAMP, '36', '0', 'B1');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('38', 'MP', '1RV115S016', CURRENT_TIMESTAMP, '37', '0', 'B2');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('38', 'MP', '1RV15IS020', CURRENT_TIMESTAMP, '38', '0', 'B2');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('39', 'MP', '1RV115S053', CURRENT_TIMESTAMP, '39', '0', 'B3');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('39', 'MP', '1RV15IS050', CURRENT_TIMESTAMP, '40', '0', 'B3');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('4', 'C programming', '1RV17IS063', CURRENT_TIMESTAMP, '41', '0', 'B4');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('40', 'MP', '1RV15IS060', CURRENT_TIMESTAMP, '42', '0', 'B4');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('40', 'MP', '1RV15IS063', CURRENT_TIMESTAMP, '43', '0', 'B4');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('41', 'Computer Networking', '1RV16IS007', CURRENT_TIMESTAMP, '44', '0', 'B1');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('42', 'Computer Networking', '1RV16IS016', CURRENT_TIMESTAMP, '45', '0', 'B2');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('43', 'Computer Networking', '1RV16IS050', CURRENT_TIMESTAMP, '46', '0', 'B3');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('44', 'Computer Networking', '1RV16IS063', CURRENT_TIMESTAMP, '47', '0', 'B4');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('45', 'File Structures', '1RV16IS007', CURRENT_TIMESTAMP, '48', '0', 'B1');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('46', 'File Structures', '1RV16IS016', CURRENT_TIMESTAMP, '49', '0', 'B2');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('47', 'File Structures', '1RV16IS050', CURRENT_TIMESTAMP, '50', '0', 'B3');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('48', 'File Structures', '1RV16IS063', CURRENT_TIMESTAMP, '51', '0', 'B4');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('49', 'Web Programming', '1RV11IS007', CURRENT_TIMESTAMP, '52', '0', 'B1');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('49', 'Web Programming', '1RV11IS014', CURRENT_TIMESTAMP, '53', '0', 'B1');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('5', 'Chemistry', '1RV17IS007', CURRENT_TIMESTAMP, '54', '0', 'B1');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('50', 'Web Programming', '1RV11IS016', CURRENT_TIMESTAMP, '55', '0', 'B2');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('50', 'Web Programming', '1RV11IS020', CURRENT_TIMESTAMP, '56', '0', 'B2');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('51', 'Web Programming', '1RV11IS043', CURRENT_TIMESTAMP, '57', '0', 'B3');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('51', 'Web Programming', '1RV11IS050', CURRENT_TIMESTAMP, '58', '0', 'B3');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('51', 'Web Programming', '1RV11IS053', CURRENT_TIMESTAMP, '59', '0', 'B3');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('52', 'Web Programming', '1RV11IS061', CURRENT_TIMESTAMP, '60', '0', 'B4');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('52', 'Web Programming', '1RV11IS063', CURRENT_TIMESTAMP, '61', '0', 'B4');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('53', 'Software Testing', '1RV11IS007', CURRENT_TIMESTAMP, '62', '0', 'B1');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('53', 'Software Testing', '1RV11IS014', CURRENT_TIMESTAMP, '63', '0', 'B1');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('54', 'Software Testing', '1RV11IS016', CURRENT_TIMESTAMP, '64', '0', 'B2');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('54', 'Software Testing', '1RV11IS020', CURRENT_TIMESTAMP, '65', '0', 'B2');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('55', 'Software Testing', '1RV11IS043', CURRENT_TIMESTAMP, '66', '0', 'B3');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('55', 'Software Testing', '1RV11IS050', CURRENT_TIMESTAMP, '67', '0', 'B3');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('55', 'Software Testing', '1RV11IS053', CURRENT_TIMESTAMP, '68', '0', 'B3');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('56', 'Software Testing', '1RV11IS061', CURRENT_TIMESTAMP, '69', '0', 'B4');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('56', 'Software Testing', '1RV11IS063', CURRENT_TIMESTAMP, '70', '0', 'B4');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('57', 'Major Project 1', '1RV10IS007', CURRENT_TIMESTAMP, '71', '0', 'B1');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('58', 'Major Project 1', '1RV10IS016', CURRENT_TIMESTAMP, '72', '0', 'B2');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('59', 'Major Project 1', '1RV10IS050', CURRENT_TIMESTAMP, '73', '0', 'B3');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('6', 'Chemistry', '1RV17IS016', CURRENT_TIMESTAMP, '74', '0', 'B2');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('60', 'Major Project 1', '1RV10IS063', CURRENT_TIMESTAMP, '75', '0', 'B4');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('61', 'Major Project 2', '1RV10IS007', CURRENT_TIMESTAMP, '76', '0', 'B1');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('62', 'Major Project 2', '1RV10IS016', CURRENT_TIMESTAMP, '77', '0', 'B2');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('63', 'Major Project 2', '1RV10IS050', CURRENT_TIMESTAMP, '78', '0', 'B3');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('64', 'Major Project 2', '1RV10IS063', CURRENT_TIMESTAMP, '79', '0', 'B4');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('7', 'Chemistry', '1RV17IS050', CURRENT_TIMESTAMP, '80', '0', 'B3');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('8', 'Chemistry', '1RV17IS063', CURRENT_TIMESTAMP, '81', '0', 'B4');
+INSERT INTO `elogbook`.`logbook_temp` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`, `approval`, `batch`) VALUES ('9', 'Mechanical', '1RV12IS007', CURRENT_TIMESTAMP, '82', '0', 'B1');
+
+
+
+
+Populating logbook_final:
+
+
+it updates the sids of temparary log book also :)
+
+
+
+
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('1', 'C programming', '1RV17IS007','2014-10-26 17:07:12', '1', 'B1');
+UPDATE `elogbook`.`logbook_temp` set sid='101' where sid='1';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('2', 'C programming', '1RV17IS016','2014-10-26 17:07:12', '2', 'B2');
+UPDATE `elogbook`.`logbook_temp` set sid='102' where sid='2';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('3', 'C programming', '1RV17IS050','2014-10-26 17:07:12', '3', 'B3');
+UPDATE `elogbook`.`logbook_temp` set sid='103' where sid='3';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('4', 'C programming', '1RV17IS063','2014-10-26 17:07:13', '4', 'B4');
+UPDATE `elogbook`.`logbook_temp` set sid='104' where sid='4';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('5', 'Chemistry', '1RV17IS007','2014-10-26 17:07:13', '5', 'B1');
+UPDATE `elogbook`.`logbook_temp` set sid='105' where sid='5';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('6', 'Chemistry', '1RV17IS016','2014-10-26 17:07:13', '6', 'B2');
+UPDATE `elogbook`.`logbook_temp` set sid='106' where sid='6';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('7', 'Chemistry', '1RV17IS050','2014-10-26 17:07:13', '7', 'B3');
+UPDATE `elogbook`.`logbook_temp` set sid='107' where sid='7';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('8', 'Chemistry', '1RV17IS063','2014-10-26 17:07:13', '8', 'B4');
+UPDATE `elogbook`.`logbook_temp` set sid='108' where sid='8';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('9', 'Mechanical', '1RV12IS007','2014-10-26 17:07:13', '9', 'B1');
+UPDATE `elogbook`.`logbook_temp` set sid='109' where sid='9';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('10', 'Mechanical', '1RV12IS016','2014-10-26 17:07:12', '10', 'B2');
+UPDATE `elogbook`.`logbook_temp` set sid='110' where sid='10';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('11', 'Mechanical', '1RV12IS050','2014-10-26 17:07:12', '11', 'B3');
+UPDATE `elogbook`.`logbook_temp` set sid='111' where sid='11';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('12', 'Mechanical', '1RV12IS063','2014-10-26 17:07:12', '12', 'B4');
+UPDATE `elogbook`.`logbook_temp` set sid='112' where sid='12';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('13', 'Physics', '1RV12IS007','2014-10-26 17:07:12', '13', 'B1');
+UPDATE `elogbook`.`logbook_temp` set sid='113' where sid='13';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('14', 'Physics', '1RV12IS016','2014-10-26 17:07:12', '14', 'B2');
+UPDATE `elogbook`.`logbook_temp` set sid='114' where sid='14';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('15', 'Physics', '1RV12IS050','2014-10-26 17:07:12', '15', 'B3');
+UPDATE `elogbook`.`logbook_temp` set sid='115' where sid='15';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('16', 'Physics', '1RV12IS063','2014-10-26 17:07:12', '16', 'B4');
+UPDATE `elogbook`.`logbook_temp` set sid='116' where sid='16';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('17', 'Data Structures', '1RV13IS007','2014-10-26 17:07:12', '17', 'B1');
+UPDATE `elogbook`.`logbook_temp` set sid='117' where sid='17';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('18', 'Data Structures', '1RV13IS016','2014-10-26 17:07:12', '18', 'B2');
+UPDATE `elogbook`.`logbook_temp` set sid='118' where sid='18';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('19', 'Data Structures', '1RV13IS050','2014-10-26 17:07:12', '19', 'B3');
+UPDATE `elogbook`.`logbook_temp` set sid='119' where sid='19';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('20', 'Data Structures', '1RV13IS063','2014-10-26 17:07:12', '20', 'B4');
+UPDATE `elogbook`.`logbook_temp` set sid='120' where sid='20';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('21', 'Logic Design', '1RV13IS007','2014-10-26 17:07:12', '21', 'B1');
+UPDATE `elogbook`.`logbook_temp` set sid='121' where sid='21';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('22', 'Logic Design', '1RV13IS016','2014-10-26 17:07:12', '22', 'B2');
+UPDATE `elogbook`.`logbook_temp` set sid='122' where sid='22';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('23', 'Logic Design', '1RV13IS050','2014-10-26 17:07:12', '23', 'B3');
+UPDATE `elogbook`.`logbook_temp` set sid='123' where sid='23';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('24', 'Logic Design', '1RV13IS063','2014-10-26 17:07:12', '24', 'B4');
+UPDATE `elogbook`.`logbook_temp` set sid='124' where sid='24';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('25', 'Advanced Algorithms', '1RV14IS007','2014-10-26 17:07:12', '25', 'B1');
+UPDATE `elogbook`.`logbook_temp` set sid='125' where sid='25';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('26', 'Advanced Algorithms', '1RV14IS016','2014-10-26 17:07:12', '26', 'B2');
+UPDATE `elogbook`.`logbook_temp` set sid='126' where sid='26';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('27', 'Advanced Algorithms', '1RV14IS050','2014-10-26 17:07:12', '27', 'B3');
+UPDATE `elogbook`.`logbook_temp` set sid='127' where sid='27';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('28', 'Advanced Algorithms', '1RV14IS063','2014-10-26 17:07:12', '28', 'B4');
+UPDATE `elogbook`.`logbook_temp` set sid='128' where sid='28';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('29', 'UNIX', '1RV14IS007','2014-10-26 17:07:12', '29', 'B1');
+UPDATE `elogbook`.`logbook_temp` set sid='129' where sid='29';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('30', 'UNIX', '1RV14IS016','2014-10-26 17:07:12', '30', 'B2');
+UPDATE `elogbook`.`logbook_temp` set sid='130' where sid='30';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('31', 'UNIX', '1RV14IS050','2014-10-26 17:07:12', '31', 'B3');
+UPDATE `elogbook`.`logbook_temp` set sid='131' where sid='31';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('32', 'UNIX', '1RV14IS063','2014-10-26 17:07:12', '32', 'B4');
+UPDATE `elogbook`.`logbook_temp` set sid='132' where sid='32';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('33', 'DBMS', '1RV115S014','2014-10-26 17:07:12', '33', 'B1');
+UPDATE `elogbook`.`logbook_temp` set sid='133' where sid='33';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('33', 'DBMS', '1RV15IS007','2014-10-26 17:07:13', '34', 'B1');
+UPDATE `elogbook`.`logbook_temp` set sid='133' where sid='33';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('34', 'DBMS', '1RV115S016','2014-10-26 17:07:13', '35', 'B2');
+UPDATE `elogbook`.`logbook_temp` set sid='134' where sid='34';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('34', 'DBMS', '1RV15IS020','2014-10-26 17:07:13', '36', 'B2');
+UPDATE `elogbook`.`logbook_temp` set sid='134' where sid='34';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('35', 'DBMS', '1RV115S053','2014-10-26 17:07:13', '37', 'B3');
+UPDATE `elogbook`.`logbook_temp` set sid='135' where sid='35';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('35', 'DBMS', '1RV15IS050','2014-10-26 17:07:13', '38', 'B3');
+UPDATE `elogbook`.`logbook_temp` set sid='135' where sid='35';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('36', 'DBMS', '1RV15IS060','2014-10-26 17:07:13', '39', 'B4');
+UPDATE `elogbook`.`logbook_temp` set sid='136' where sid='36';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('36', 'DBMS', '1RV15IS063','2014-10-26 17:07:13', '40', 'B4');
+UPDATE `elogbook`.`logbook_temp` set sid='136' where sid='36';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('37', 'MP', '1RV115S014','2014-10-26 17:07:13', '41', 'B1');
+UPDATE `elogbook`.`logbook_temp` set sid='137' where sid='37';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('37', 'MP', '1RV15IS007','2014-10-26 17:07:13', '42', 'B1');
+UPDATE `elogbook`.`logbook_temp` set sid='137' where sid='37';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('38', 'MP', '1RV115S016','2014-10-26 17:07:13', '43', 'B2');
+UPDATE `elogbook`.`logbook_temp` set sid='138' where sid='38';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('38', 'MP', '1RV15IS020','2014-10-26 17:07:13', '44', 'B2');
+UPDATE `elogbook`.`logbook_temp` set sid='138' where sid='38';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('39', 'MP', '1RV115S053','2014-10-26 17:07:13', '45', 'B3');
+UPDATE `elogbook`.`logbook_temp` set sid='139' where sid='39';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('39', 'MP', '1RV15IS050','2014-10-26 17:07:13', '46', 'B3');
+UPDATE `elogbook`.`logbook_temp` set sid='139' where sid='39';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('40', 'MP', '1RV15IS060','2014-10-26 17:07:13', '47', 'B4');
+UPDATE `elogbook`.`logbook_temp` set sid='140' where sid='40';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('40', 'MP', '1RV15IS063','2014-10-26 17:07:13', '48', 'B4');
+UPDATE `elogbook`.`logbook_temp` set sid='140' where sid='40';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('41', 'Computer Networking', '1RV16IS007','2014-10-26 17:07:13', '49', 'B1');
+UPDATE `elogbook`.`logbook_temp` set sid='141' where sid='41';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('42', 'Computer Networking', '1RV16IS016','2014-10-26 17:07:13', '50', 'B2');
+UPDATE `elogbook`.`logbook_temp` set sid='142' where sid='42';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('43', 'Computer Networking', '1RV16IS050','2014-10-26 17:07:13', '51', 'B3');
+UPDATE `elogbook`.`logbook_temp` set sid='143' where sid='43';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('44', 'Computer Networking', '1RV16IS063','2014-10-26 17:07:13', '52', 'B4');
+UPDATE `elogbook`.`logbook_temp` set sid='144' where sid='44';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('45', 'File Structures', '1RV16IS007','2014-10-26 17:07:13', '53', 'B1');
+UPDATE `elogbook`.`logbook_temp` set sid='145' where sid='45';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('46', 'File Structures', '1RV16IS016','2014-10-26 17:07:13', '54', 'B2');
+UPDATE `elogbook`.`logbook_temp` set sid='146' where sid='46';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('47', 'File Structures', '1RV16IS050','2014-10-26 17:07:13', '55', 'B3');
+UPDATE `elogbook`.`logbook_temp` set sid='147' where sid='47';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('48', 'File Structures', '1RV16IS063','2014-10-26 17:07:13', '56', 'B4');
+UPDATE `elogbook`.`logbook_temp` set sid='148' where sid='48';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('49', 'Web Programming', '1RV11IS007','2014-10-26 17:07:13', '57', 'B1');
+UPDATE `elogbook`.`logbook_temp` set sid='149' where sid='49';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('49', 'Web Programming', '1RV11IS014','2014-10-26 17:07:13', '58', 'B1');
+UPDATE `elogbook`.`logbook_temp` set sid='149' where sid='49';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('50', 'Web Programming', '1RV11IS016','2014-10-26 17:07:13', '59', 'B2');
+UPDATE `elogbook`.`logbook_temp` set sid='150' where sid='50';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('50', 'Web Programming', '1RV11IS020','2014-10-26 17:07:13', '60', 'B2');
+UPDATE `elogbook`.`logbook_temp` set sid='150' where sid='50';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('51', 'Web Programming', '1RV11IS043','2014-10-26 17:07:13', '61', 'B3');
+UPDATE `elogbook`.`logbook_temp` set sid='151' where sid='51';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('51', 'Web Programming', '1RV11IS050','2014-10-26 17:07:13', '62', 'B3');
+UPDATE `elogbook`.`logbook_temp` set sid='151' where sid='51';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('51', 'Web Programming', '1RV11IS053','2014-10-26 17:07:13', '63', 'B3');
+UPDATE `elogbook`.`logbook_temp` set sid='151' where sid='51';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('52', 'Web Programming', '1RV11IS061','2014-10-26 17:07:13', '64', 'B4');
+UPDATE `elogbook`.`logbook_temp` set sid='152' where sid='52';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('52', 'Web Programming', '1RV11IS063','2014-10-26 17:07:13', '65', 'B4');
+UPDATE `elogbook`.`logbook_temp` set sid='152' where sid='52';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('53', 'Software Testing', '1RV11IS007','2014-10-26 17:07:13', '66', 'B1');
+UPDATE `elogbook`.`logbook_temp` set sid='153' where sid='53';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('53', 'Software Testing', '1RV11IS014','2014-10-26 17:07:13', '67', 'B1');
+UPDATE `elogbook`.`logbook_temp` set sid='153' where sid='53';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('54', 'Software Testing', '1RV11IS016','2014-10-26 17:07:13', '68', 'B2');
+UPDATE `elogbook`.`logbook_temp` set sid='154' where sid='54';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('54', 'Software Testing', '1RV11IS020','2014-10-26 17:07:13', '69', 'B2');
+UPDATE `elogbook`.`logbook_temp` set sid='154' where sid='54';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('55', 'Software Testing', '1RV11IS043','2014-10-26 17:07:13', '70', 'B3');
+UPDATE `elogbook`.`logbook_temp` set sid='155' where sid='55';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('55', 'Software Testing', '1RV11IS050','2014-10-26 17:07:13', '71', 'B3');
+UPDATE `elogbook`.`logbook_temp` set sid='155' where sid='55';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('55', 'Software Testing', '1RV11IS053','2014-10-26 17:07:13', '72', 'B3');
+UPDATE `elogbook`.`logbook_temp` set sid='155' where sid='55';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('56', 'Software Testing', '1RV11IS061','2014-10-26 17:07:13', '73', 'B4');
+UPDATE `elogbook`.`logbook_temp` set sid='156' where sid='56';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('56', 'Software Testing', '1RV11IS063','2014-10-26 17:07:13', '74', 'B4');
+UPDATE `elogbook`.`logbook_temp` set sid='156' where sid='56';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('57', 'Major Project 1', '1RV10IS007','2014-10-26 17:07:13', '75', 'B1');
+UPDATE `elogbook`.`logbook_temp` set sid='157' where sid='57';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('58', 'Major Project 1', '1RV10IS016','2014-10-26 17:07:13', '76', 'B2');
+UPDATE `elogbook`.`logbook_temp` set sid='158' where sid='58';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('59', 'Major Project 1', '1RV10IS050','2014-10-26 17:07:13', '77', 'B3');
+UPDATE `elogbook`.`logbook_temp` set sid='159' where sid='59';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('60', 'Major Project 1', '1RV10IS063','2014-10-26 17:07:13', '78', 'B4');
+UPDATE `elogbook`.`logbook_temp` set sid='160' where sid='60';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('61', 'Major Project 2', '1RV10IS007','2014-10-26 17:07:13', '79', 'B1');
+UPDATE `elogbook`.`logbook_temp` set sid='161' where sid='61';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('62', 'Major Project 2', '1RV10IS016','2014-10-26 17:07:13', '80', 'B2');
+UPDATE `elogbook`.`logbook_temp` set sid='162' where sid='62';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('63', 'Major Project 2', '1RV10IS050','2014-10-26 17:07:13', '81', 'B3');
+UPDATE `elogbook`.`logbook_temp` set sid='163' where sid='63';
+INSERT INTO `elogbook`.`logbook_final` (`sid`, `sub_name`, `USN`, `log_in`, `system_no`,`batch`) VALUES ('64', 'Major Project 2', '1RV10IS063','2014-10-26 17:07:13', '82', 'B4');
+UPDATE `elogbook`.`logbook_temp` set sid='164' where sid='64';
