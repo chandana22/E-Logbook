@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Try v1.2 Bootstrap Online</title>
+   <link href="/css/bootstrap.min.css" rel="stylesheet">
+   <script src="/scripts/jquery.min.js"></script>
+   <script src="/bootstrap/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<small>This content is within <small> tag</small><br>
+<strong>This content is within <strong> tag</strong><br>
+<em>This content is within <em> tag and is rendered as italics</em><br>
+<p class="text-left">Left aligned text.</p>
+<p class="text-center">Center aligned text.</p>
+<p class="text-right">Right aligned text.</p>
+<p class="text-muted">This content is muted</p>
+<p class="text-primary">This content carries a primary class</p>
+<p class="text-success">This content carries a success class</p>
+<p class="text-info">This content carries a info class</p>
+<p class="text-warning">This content carries a warning class</p>
+<p class="text-danger">This content carries a danger class</p>
+
+</body>
+</html>
